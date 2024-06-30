@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8819976c-03fc-4a53-a9bd-a588a2ad6c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/notesApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/note.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/note.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="8819976c-03fc-4a53-a9bd-a588a2ad6c32" name="Changes" comment="fastapi trial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,11 +86,24 @@
       <workItem from="1719061460639" duration="1819000" />
       <workItem from="1719544778434" duration="8872000" />
       <workItem from="1719645217407" duration="6821000" />
-      <workItem from="1719661848573" duration="5150000" />
+      <workItem from="1719661848573" duration="5554000" />
     </task>
+    <task id="LOCAL-00001" summary="fastapi trial">
+      <option name="closed" value="true" />
+      <created>1719723823004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719723823004</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fastapi trial" />
+    <option name="LAST_COMMIT_MESSAGE" value="fastapi trial" />
   </component>
 </project>
